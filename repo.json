@@ -2,5 +2,10 @@
   "name": "Meu Repo CloudStream",
   "description": "Repositório de estudo CloudStream",
   "manifestVersion": 1,
-  "plugins": []
+  "plugins": [
+    {
+      "name": "Teste M3U8",
+      "url": "https://scell3403-dot.github.io/meu-repo-cloudstream/plugin.json"
+    }
+  ]
 }
