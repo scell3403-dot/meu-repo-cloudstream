@@ -1,0 +1,12 @@
+{
+  "name": "Teste M3U8",
+  "version": 1,
+  "language": "pt-BR",
+  "description": "Plugin de teste com link m3u8",
+  "streams": [
+    {
+      "name": "Vídeo Teste",
+      "url": "https://animesonlinecc.to/"
+    }
+  ]
+}
